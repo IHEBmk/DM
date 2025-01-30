@@ -1,0 +1,24 @@
+.nav_bar {
+  background-color: rgb(99, 237, 99);
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;  /* Centers items vertically */
+  justify-content: space-between; /* Spreads items out */ /* Adds spacing */
+}
+
+.logo {
+  background-image: url("./image1.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  flex-grow: 1; /* Takes available space */
+  text-align: center; /* Centers text */
+}

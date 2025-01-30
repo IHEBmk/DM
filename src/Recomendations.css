@@ -1,0 +1,26 @@
+h2{
+    font-size: 1.5rem;
+    color: black;
+    align-self: center;
+}
+.recomendations{
+    margin: 50px;
+    width: 100%;
+
+}
+.table{    
+    width: 100%;
+    align-self: center;
+}
+th{
+    font-size: 1.2rem;
+    color: black;
+    align-self: center;
+}
+td{
+    font-size: 1.2rem;
+    color: black;
+    align-self: center;
+    text-align: left;
+    padding-left: 10px;
+}

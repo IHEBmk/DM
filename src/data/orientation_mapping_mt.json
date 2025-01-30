@@ -1,0 +1,5986 @@
+{
+    "centroids": [
+        [
+            40.41188666205943,
+            42.85970974429855,
+            45.083621285418104,
+            399.2840359364202,
+            339.0767104353836,
+            723.4865238424326,
+            47.26883206634416,
+            52.94402211472011,
+            30.335867311679337,
+            0.0017317519004837595,
+            0.00016147201105736007
+        ],
+        [
+            41.2,
+            51.8,
+            54.4,
+            252.0,
+            244.8,
+            399.35,
+            57.4,
+            64.0,
+            30.8,
+            0.0018505000000000001,
+            0.00018
+        ],
+        [
+            36.13333333333333,
+            45.2,
+            46.93333333333333,
+            403.2,
+            282.0,
+            408.3333333333333,
+            41.86666666666667,
+            58.4,
+            21.733333333333334,
+            0.0018829333333333332,
+            0.00032999999999999994
+        ],
+        [
+            37.79356599727042,
+            41.371651394033925,
+            46.13445116007019,
+            417.4708520179372,
+            336.720374341977,
+            830.1597387404952,
+            49.028114642230456,
+            57.66137648664457,
+            27.7992591148372,
+            0.0017708039383895497,
+            0.00011083057126145448
+        ]
+    ],
+    "-1": [
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique"
+            ],
+            2,
+            17.386575342465754,
+            16.44
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Supérieure des Technologies Avancées"
+            ],
+            1,
+            16.660476190476192,
+            15.28
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique d’Oran"
+            ],
+            2,
+            16.57725,
+            15.57
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole des Hautes Etudes Commerciales"
+            ],
+            1,
+            16.125862068965517,
+            15.7
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique de Constantine"
+            ],
+            1,
+            16.12377358490566,
+            14.92
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure Assia Djebar Constantine"
+            ],
+            1,
+            15.961153846153847,
+            15.24
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "École Supérieure en Génie Électrique et Énergétique"
+            ],
+            2,
+            15.651363636363635,
+            14.3
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure - Kouba"
+            ],
+            1,
+            15.645169491525424,
+            14.14
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure - Kouba"
+            ],
+            2,
+            15.515955555555557,
+            13.98
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Ecole Normale Supérieure de Mostaganem"
+            ],
+            1,
+            15.512666666666666,
+            14.08
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            2,
+            15.433464566929134,
+            10.41
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "École Nationale Supérieure de Technologie et d'Ingénierie (Annaba)"
+            ],
+            1,
+            15.26,
+            13.76
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole Supérieure d’Economie d’Oran"
+            ],
+            1,
+            15.094166666666666,
+            14.83
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure de Ouargla"
+            ],
+            1,
+            14.976666666666667,
+            14.33
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Ecole Normale Supérieure de Bouzaréah"
+            ],
+            1,
+            14.841666666666667,
+            14.01
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Blida 1"
+            ],
+            2,
+            14.674690265486726,
+            12.56
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Béjaia"
+            ],
+            1,
+            14.595113636363635,
+            9.61
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Supérieure d'Hydraulique"
+            ],
+            1,
+            14.55551724137931,
+            13.54
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Sétif 1"
+            ],
+            1,
+            14.4765625,
+            11.41
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            1,
+            14.396315789473682,
+            13.4
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Blida 1"
+            ],
+            2,
+            14.369210526315788,
+            12.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Sidi Bel Abbes"
+            ],
+            1,
+            14.197012987012988,
+            9.86
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            1,
+            14.175526315789472,
+            10.0
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            2,
+            14.1336690647482,
+            12.4
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université batna 2"
+            ],
+            1,
+            14.065,
+            11.34
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Mostaganem"
+            ],
+            1,
+            13.943953488372093,
+            10.12
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Mostaganem"
+            ],
+            3,
+            13.91483870967742,
+            11.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Tlemcen"
+            ],
+            1,
+            13.666052631578946,
+            9.89
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Boumerdes"
+            ],
+            13,
+            13.574799482535575,
+            9.94
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Tissemsilt"
+            ],
+            1,
+            13.548823529411765,
+            11.68
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université des sciences islamiques émir Abdelkader Constantine"
+            ],
+            1,
+            13.537307692307694,
+            10.02
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Blida 2"
+            ],
+            3,
+            13.4,
+            11.91
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            7,
+            13.394758064516129,
+            10.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Boumerdes"
+            ],
+            3,
+            13.382513661202186,
+            9.6
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Ouargla"
+            ],
+            1,
+            13.305,
+            11.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            2,
+            13.297045454545456,
+            11.8
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            1,
+            13.229999999999999,
+            11.96
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            13.078333333333333,
+            9.7
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’El Oued"
+            ],
+            1,
+            13.060999999999998,
+            11.23
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            1,
+            13.01375,
+            12.02
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Chlef"
+            ],
+            1,
+            13.011666666666667,
+            9.59
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Djelfa"
+            ],
+            5,
+            13.008333333333333,
+            10.12
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            1,
+            12.925614035087719,
+            9.5
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de M’Sila"
+            ],
+            1,
+            12.916666666666666,
+            10.74
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Oran 1"
+            ],
+            3,
+            12.883363636363637,
+            9.6
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Médéa"
+            ],
+            2,
+            12.868301886792452,
+            9.62
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de M’Sila"
+            ],
+            1,
+            12.859855072463768,
+            9.5
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Khemis Miliana"
+            ],
+            1,
+            12.856136363636363,
+            9.88
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Khenchela"
+            ],
+            1,
+            12.849375,
+            10.29
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’El Oued"
+            ],
+            1,
+            12.8332,
+            9.61
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            2,
+            12.824237288135594,
+            9.96
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Chlef"
+            ],
+            1,
+            12.799032258064516,
+            10.76
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            3,
+            12.74263157894737,
+            9.81
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Sétif 1"
+            ],
+            14,
+            12.690799595141701,
+            9.59
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Skikda"
+            ],
+            5,
+            12.657610294117646,
+            10.37
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Bordj Bou Arréridj"
+            ],
+            1,
+            12.60808510638298,
+            9.55
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            12.596666666666668,
+            9.97
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Biskra"
+            ],
+            2,
+            12.581794871794871,
+            9.52
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université  d'Ain Temouchent"
+            ],
+            2,
+            12.56425,
+            9.87
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            22,
+            12.545886699507388,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Sétif 1"
+            ],
+            1,
+            12.534600000000001,
+            11.6
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Mostaganem"
+            ],
+            1,
+            12.529583333333333,
+            11.47
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Relizane"
+            ],
+            1,
+            12.486666666666666,
+            10.43
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Bouira"
+            ],
+            2,
+            12.481136363636363,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université Oran 1"
+            ],
+            1,
+            12.470833333333333,
+            10.03
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            2,
+            12.391481481481481,
+            9.65
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Blida 1"
+            ],
+            26,
+            12.360138613861386,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Mostaganem"
+            ],
+            1,
+            12.264117647058825,
+            11.15
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université ibn khaldoun - tiaret"
+            ],
+            4,
+            12.228854166666666,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’Alger 1"
+            ],
+            1,
+            12.215882352941177,
+            10.89
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Constantine 1"
+            ],
+            10,
+            12.202387755102041,
+            9.78
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Mostaganem"
+            ],
+            5,
+            12.19820945945946,
+            9.71
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Mascara"
+            ],
+            6,
+            12.020970873786407,
+            9.81
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université batna 2"
+            ],
+            4,
+            12.016139630390143,
+            9.57
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université batna 2"
+            ],
+            1,
+            12.004000000000001,
+            9.73
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Oran 1"
+            ],
+            2,
+            11.978320610687023,
+            9.65
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            11.933571428571428,
+            10.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Bouira"
+            ],
+            5,
+            11.913374485596707,
+            9.86
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Mascara"
+            ],
+            1,
+            11.912592592592592,
+            11.26
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            1,
+            11.906896551724138,
+            10.92
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            1,
+            11.9,
+            11.12
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université ibn khaldoun - tiaret"
+            ],
+            3,
+            11.88953125,
+            9.53
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université ibn khaldoun - tiaret"
+            ],
+            2,
+            11.8825,
+            9.58
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            6,
+            11.877441253263708,
+            9.6
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tlemcen"
+            ],
+            7,
+            11.873786666666668,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Béjaia"
+            ],
+            20,
+            11.801463414634146,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Tlemcen"
+            ],
+            1,
+            11.8,
+            9.81
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Blida 1"
+            ],
+            3,
+            11.766666666666667,
+            9.61
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            1,
+            11.745833333333332,
+            11.02
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Sidi Bel Abbes"
+            ],
+            3,
+            11.732151162790698,
+            9.53
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Alger 1"
+            ],
+            2,
+            11.718333333333334,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Ouargla"
+            ],
+            2,
+            11.708758620689656,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Souk Ahras"
+            ],
+            1,
+            11.700555555555557,
+            10.12
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Sétif 2"
+            ],
+            1,
+            11.693333333333333,
+            11.03
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            10,
+            11.628801571709234,
+            9.58
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université ibn khaldoun - tiaret"
+            ],
+            1,
+            11.623529411764705,
+            9.6
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Tissemsilt"
+            ],
+            1,
+            11.603333333333333,
+            10.93
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Khemis Miliana"
+            ],
+            1,
+            11.581999999999999,
+            11.09
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            3,
+            11.552461538461538,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tissemsilt"
+            ],
+            4,
+            11.551428571428572,
+            9.53
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Laghouat"
+            ],
+            1,
+            11.544117647058824,
+            9.7
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de M’Sila"
+            ],
+            2,
+            11.528013698630136,
+            9.57
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’El Oued"
+            ],
+            1,
+            11.521666666666667,
+            9.51
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université Alger 3"
+            ],
+            5,
+            11.518340807174889,
+            10.67
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Médéa"
+            ],
+            11,
+            11.51090579710145,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Tlemcen"
+            ],
+            1,
+            11.51,
+            10.6
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Tipaza"
+            ],
+            7,
+            11.487940298507462,
+            9.52
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Laghouat"
+            ],
+            2,
+            11.4856,
+            9.71
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Sétif 1"
+            ],
+            6,
+            11.484022988505748,
+            9.59
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Djelfa"
+            ],
+            1,
+            11.433333333333332,
+            11.11
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Khenchela"
+            ],
+            1,
+            11.401666666666666,
+            10.62
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Laghouat"
+            ],
+            3,
+            11.40082191780822,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Chlef"
+            ],
+            11,
+            11.389166666666666,
+            9.52
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            1,
+            11.383,
+            9.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire de Barika"
+            ],
+            1,
+            11.376551724137931,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            7,
+            11.37020920502092,
+            9.75
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Constantine 1"
+            ],
+            2,
+            11.3385,
+            9.91
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Djelfa"
+            ],
+            4,
+            11.324107142857143,
+            10.45
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université  d'Ain Temouchent"
+            ],
+            1,
+            11.316277777777778,
+            9.61
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Relizane"
+            ],
+            2,
+            11.2995,
+            9.59
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Relizane"
+            ],
+            1,
+            11.286153846153846,
+            10.51
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Mascara"
+            ],
+            1,
+            11.267142857142856,
+            9.7
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Khemis Miliana"
+            ],
+            3,
+            11.250604026845638,
+            9.5
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Batna 1"
+            ],
+            4,
+            11.21664,
+            9.62
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Guelma"
+            ],
+            8,
+            11.202227074235807,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Souk Ahras"
+            ],
+            5,
+            11.173580246913579,
+            9.55
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            11.158181818181818,
+            10.46
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            3,
+            11.109166666666667,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’Oum El Bouaghi"
+            ],
+            5,
+            11.101095890410958,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de M’Sila"
+            ],
+            1,
+            11.097608695652173,
+            9.5
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            11.08705882352941,
+            9.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Ghardaia"
+            ],
+            1,
+            11.086666666666666,
+            9.93
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Batna 1"
+            ],
+            6,
+            11.083461538461538,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Saida"
+            ],
+            5,
+            11.080076923076923,
+            9.55
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Bordj Bou Arréridj"
+            ],
+            2,
+            11.07529411764706,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            3,
+            11.07394495412844,
+            9.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université ibn khaldoun - tiaret"
+            ],
+            6,
+            11.063429487179487,
+            9.54
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Biskra"
+            ],
+            2,
+            11.048495575221239,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Ghardaia"
+            ],
+            3,
+            11.035968992248062,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de M’Sila"
+            ],
+            1,
+            11.029523809523809,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            3,
+            10.993255813953487,
+            9.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Khenchela"
+            ],
+            3,
+            10.942537313432835,
+            9.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            4,
+            10.94012987012987,
+            9.54
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            1,
+            10.905000000000001,
+            10.23
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Médéa"
+            ],
+            5,
+            10.896282051282052,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d'Adrar"
+            ],
+            1,
+            10.87,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Mostaganem"
+            ],
+            3,
+            10.86219512195122,
+            9.68
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Mostaganem"
+            ],
+            3,
+            10.845609756097561,
+            9.57
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’El Oued"
+            ],
+            4,
+            10.840171821305841,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Djelfa"
+            ],
+            3,
+            10.839649999999999,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Jijel"
+            ],
+            2,
+            10.832171428571428,
+            9.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Blida 2"
+            ],
+            1,
+            10.810735294117647,
+            9.69
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université Oran 1"
+            ],
+            1,
+            10.805,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Alger 2"
+            ],
+            4,
+            10.783709677419356,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Chlef"
+            ],
+            2,
+            10.728823529411764,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de M’Sila"
+            ],
+            1,
+            10.707826086956523,
+            9.53
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Blida 2"
+            ],
+            2,
+            10.69625,
+            9.64
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Médéa"
+            ],
+            1,
+            10.689333333333334,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Djelfa"
+            ],
+            1,
+            10.66375,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Blida 1"
+            ],
+            1,
+            10.655,
+            9.61
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Sétif 2"
+            ],
+            2,
+            10.641290322580645,
+            9.74
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            10.635,
+            9.74
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            10.5405,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            4,
+            10.523188405797102,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Constantine 1"
+            ],
+            1,
+            10.498865979381444,
+            9.56
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Jijel"
+            ],
+            1,
+            10.493333333333332,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Boumerdes"
+            ],
+            2,
+            10.485479452054795,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Chlef"
+            ],
+            1,
+            10.4508,
+            9.61
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Bouira"
+            ],
+            1,
+            10.42952380952381,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Boumerdes"
+            ],
+            1,
+            10.413938223938224,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            1,
+            10.396666666666667,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            1,
+            10.391428571428571,
+            9.53
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Tlemcen"
+            ],
+            2,
+            10.384,
+            10.09
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Mascara"
+            ],
+            2,
+            10.369772727272727,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université ibn khaldoun - tiaret"
+            ],
+            1,
+            10.352666666666666,
+            9.8
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Djelfa"
+            ],
+            3,
+            10.342916666666666,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Skikda"
+            ],
+            1,
+            10.334935064935065,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            10.320740740740742,
+            9.59
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            2,
+            10.29295081967213,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            10,
+            10.270945558739255,
+            9.5
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Mostaganem"
+            ],
+            2,
+            10.249285714285715,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Sétif 1"
+            ],
+            2,
+            10.231842105263159,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            1,
+            10.196666666666665,
+            9.65
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Béjaia"
+            ],
+            3,
+            10.1735,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université batna 2"
+            ],
+            3,
+            10.132179487179487,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Béjaia"
+            ],
+            2,
+            10.084,
+            9.51
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Centre Universitaire de Tipaza"
+            ],
+            1,
+            10.063235294117646,
+            9.61
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Batna 1"
+            ],
+            1,
+            10.048666666666666,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Centre Universitaire de Tipaza"
+            ],
+            1,
+            9.856666666666666,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Ouargla"
+            ],
+            1,
+            9.790384615384616,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Relizane"
+            ],
+            2,
+            9.727500000000001,
+            9.51
+        ]
+    ],
+    "0": [
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tissemsilt"
+            ],
+            1,
+            11.551428571428572,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université ibn khaldoun - tiaret"
+            ],
+            1,
+            11.063429487179487,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université batna 2"
+            ],
+            1,
+            10.132179487179487,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Boumerdes"
+            ],
+            1,
+            9.786,
+            9.55
+        ]
+    ],
+    "1": [
+        [
+            [
+                "Sciences et Technologies",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            1,
+            12.545886699507388,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Mostaganem"
+            ],
+            1,
+            12.19820945945946,
+            9.71
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Tipaza"
+            ],
+            1,
+            11.487940298507462,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            1,
+            10.270945558739255,
+            9.5
+        ]
+    ],
+    "2": [
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Nationale Supérieure d'Informatique"
+            ],
+            2,
+            18.816666666666666,
+            18.58
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "ECOLE NATIONALE SUPERIEURE EN INTELLIGENCE ARTIFICIELLE ALGER"
+            ],
+            1,
+            18.405,
+            18.32
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Supérieure en Informatique 08 Mai 1945 -Sidi Bel Abbes-"
+            ],
+            7,
+            17.997142857142858,
+            17.47
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "École Supérieure en Sciences et Technologies de l'Informatique et du Numérique de Bejaia"
+            ],
+            4,
+            17.852857142857143,
+            17.17
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique"
+            ],
+            64,
+            17.386575342465754,
+            16.44
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "ECOLE NATIONALE SUPERIEURE EN MATHEMATIQUES ALGER POLE DE SIDI ABDELLAH"
+            ],
+            12,
+            17.238260869565217,
+            16.57
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Supérieure des Technologies Avancées"
+            ],
+            6,
+            16.660476190476192,
+            15.28
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Ecole Polytechnique d'Architecture et d'Urbanisme Le Moudjahid Hocine Ait Ahmed "
+            ],
+            12,
+            16.59076923076923,
+            15.72
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique d’Oran"
+            ],
+            48,
+            16.57725,
+            15.57
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure de Mostaganem"
+            ],
+            4,
+            16.34375,
+            14.7
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure de Mostaganem"
+            ],
+            5,
+            16.31833333333333,
+            15.35
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Ecole Normale Supérieure de Bou Saâda"
+            ],
+            1,
+            16.27,
+            15.57
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole Supérieure de Commerce"
+            ],
+            9,
+            16.238518518518518,
+            15.9
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole des Hautes Etudes Commerciales"
+            ],
+            10,
+            16.125862068965517,
+            15.7
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Polytechnique de Constantine"
+            ],
+            20,
+            16.12377358490566,
+            14.92
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure Assia Djebar Constantine"
+            ],
+            8,
+            16.03666666666667,
+            14.46
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure Assia Djebar Constantine"
+            ],
+            5,
+            15.961153846153847,
+            15.24
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Ecole Normale Supérieure de Bou Saâda"
+            ],
+            1,
+            15.906666666666666,
+            15.75
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Supérieure des Travaux Publics"
+            ],
+            28,
+            15.866746987951808,
+            14.61
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Ecole Supérieure des Sciences de l’Aliment et des Industries Agroalimentaires d’Alger"
+            ],
+            1,
+            15.866666666666667,
+            15.69
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "École Supérieure de Gestion et de l’Economie Numérique –Koléa"
+            ],
+            6,
+            15.8575,
+            15.53
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure de Bou Saâda"
+            ],
+            5,
+            15.83,
+            15.21
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure d’Enseignement Technologique de Skikda"
+            ],
+            6,
+            15.82875,
+            14.67
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole Supérieure de Management de Tlemcen"
+            ],
+            9,
+            15.8259375,
+            15.42
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure de Bou Saâda"
+            ],
+            3,
+            15.79888888888889,
+            15.23
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure de Sétif"
+            ],
+            4,
+            15.764615384615384,
+            15.3
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure d’Oran"
+            ],
+            3,
+            15.691249999999998,
+            14.57
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure de Sétif"
+            ],
+            2,
+            15.678333333333333,
+            15.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "L'Ecole nationale supérieure des énergies renouvelables, environnement et développement durable"
+            ],
+            13,
+            15.6702,
+            14.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "École Supérieure en Génie Électrique et Énergétique"
+            ],
+            26,
+            15.651363636363635,
+            14.3
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure - Kouba"
+            ],
+            25,
+            15.645169491525424,
+            14.14
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            2,
+            15.612142857142857,
+            14.58
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Ecole Nationale Supérieure de Journalisme et des Sciences de l’Information"
+            ],
+            1,
+            15.54888888888889,
+            15.14
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure - Kouba"
+            ],
+            61,
+            15.515955555555557,
+            13.98
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Ecole Normale Supérieure de Mostaganem"
+            ],
+            5,
+            15.512666666666666,
+            14.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Supérieure en Sciences Appliquées de Tlemcen"
+            ],
+            14,
+            15.505735294117649,
+            14.17
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure de Ouargla"
+            ],
+            5,
+            15.454210526315789,
+            14.39
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            79,
+            15.433464566929134,
+            10.41
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Normale Supérieure d’Enseignement Technologique de Skikda"
+            ],
+            18,
+            15.431395348837208,
+            14.08
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole Supérieure de Comptabilité et de Finance de Constantine"
+            ],
+            5,
+            15.38875,
+            15.0
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Ecole Normale Supérieure de Mostaganem"
+            ],
+            2,
+            15.388333333333334,
+            14.11
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            13,
+            15.377543859649123,
+            14.17
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure d’Oran"
+            ],
+            5,
+            15.372499999999999,
+            14.45
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université d’Alger 1"
+            ],
+            8,
+            15.357441860465116,
+            14.39
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure d’Enseignement Technologique de Skikda"
+            ],
+            10,
+            15.348684210526315,
+            14.3
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            15,
+            15.328513513513514,
+            14.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "École Nationale Supérieure de Technologie et d'Ingénierie (Annaba)"
+            ],
+            16,
+            15.26,
+            13.76
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Ecole Nationale Supérieure Agronomique"
+            ],
+            5,
+            15.209999999999999,
+            14.7
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            3,
+            15.182307692307692,
+            14.33
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Ecole Normale Supérieure de Bouzaréah"
+            ],
+            5,
+            15.156521739130437,
+            14.06
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Ecole Normale Supérieure de Bouzaréah"
+            ],
+            4,
+            15.125454545454545,
+            14.08
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Ecole Supérieure d’Economie d’Oran"
+            ],
+            9,
+            15.094166666666666,
+            14.83
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "École supérieure des sciences de gestion Annaba"
+            ],
+            5,
+            15.086428571428572,
+            14.86
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            11,
+            15.068857142857143,
+            13.67
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            5,
+            14.993125000000001,
+            13.97
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Ecole Normale Supérieure de Ouargla"
+            ],
+            4,
+            14.976666666666667,
+            14.33
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Ecole Normale Supérieure de Bechar"
+            ],
+            4,
+            14.891764705882352,
+            14.12
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Béjaia"
+            ],
+            11,
+            14.795,
+            13.69
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’Alger 1"
+            ],
+            17,
+            14.71390243902439,
+            10.82
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Blida 1"
+            ],
+            55,
+            14.674690265486726,
+            12.56
+        ],
+        [
+            [
+                "Arts",
+                "Ecole Normale Supérieure - Kouba"
+            ],
+            1,
+            14.655000000000001,
+            13.39
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Sétif 1"
+            ],
+            16,
+            14.60217391304348,
+            12.32
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Béjaia"
+            ],
+            38,
+            14.595113636363635,
+            9.61
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Ecole Nationale Supérieure d'Hydraulique"
+            ],
+            17,
+            14.55551724137931,
+            13.54
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Ecole Normale Supérieure de Ouargla"
+            ],
+            3,
+            14.538,
+            14.09
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Ecole Nationale Supérieure des Sciences de la Mer et de l’Aménagement du Littoral"
+            ],
+            11,
+            14.506190476190476,
+            14.04
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Sétif 1"
+            ],
+            20,
+            14.4765625,
+            11.41
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            10,
+            14.42775,
+            13.08
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Ecole Normale Supérieure - Laghouat"
+            ],
+            10,
+            14.396315789473682,
+            13.4
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Blida 1"
+            ],
+            44,
+            14.369210526315788,
+            12.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Sidi Bel Abbes"
+            ],
+            26,
+            14.197012987012988,
+            9.86
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            36,
+            14.175526315789472,
+            10.0
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            6,
+            14.1744,
+            13.06
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Ecole Supérieure Agronomique de Mostaganem"
+            ],
+            18,
+            14.1668,
+            13.71
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            37,
+            14.1336690647482,
+            12.4
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Sétif 2"
+            ],
+            3,
+            14.077777777777778,
+            12.21
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université batna 2"
+            ],
+            20,
+            14.065,
+            11.34
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Jijel"
+            ],
+            1,
+            14.01,
+            13.5
+        ],
+        [
+            [
+                "Langue et Culture Amazighes",
+                "Ecole Normale Supérieure de Bouzaréah"
+            ],
+            2,
+            13.983333333333334,
+            13.55
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Mostaganem"
+            ],
+            44,
+            13.943953488372093,
+            10.12
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Mostaganem"
+            ],
+            16,
+            13.91483870967742,
+            11.89
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            2,
+            13.76,
+            11.83
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Tlemcen"
+            ],
+            6,
+            13.722758620689655,
+            11.73
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Tlemcen"
+            ],
+            17,
+            13.666052631578946,
+            9.89
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Sétif 1"
+            ],
+            5,
+            13.620666666666667,
+            12.61
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Chlef"
+            ],
+            2,
+            13.615384615384615,
+            12.55
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Boumerdes"
+            ],
+            280,
+            13.574799482535575,
+            9.94
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Tissemsilt"
+            ],
+            6,
+            13.548823529411765,
+            11.68
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Mostaganem"
+            ],
+            5,
+            13.546666666666667,
+            11.48
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université des sciences islamiques émir Abdelkader Constantine"
+            ],
+            11,
+            13.537307692307694,
+            10.02
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            1,
+            13.530000000000001,
+            12.33
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Saida"
+            ],
+            9,
+            13.51,
+            11.7
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Bouira"
+            ],
+            1,
+            13.443333333333333,
+            12.98
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            1,
+            13.4125,
+            12.98
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Blida 2"
+            ],
+            8,
+            13.4,
+            11.91
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            310,
+            13.394758064516129,
+            10.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Boumerdes"
+            ],
+            86,
+            13.382513661202186,
+            9.6
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Souk Ahras"
+            ],
+            3,
+            13.347,
+            11.65
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Khemis Miliana"
+            ],
+            1,
+            13.306666666666667,
+            12.63
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Ouargla"
+            ],
+            2,
+            13.305,
+            11.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            19,
+            13.297045454545456,
+            11.8
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Khenchela"
+            ],
+            2,
+            13.24,
+            10.76
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Médéa"
+            ],
+            3,
+            13.236666666666666,
+            9.66
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Guelma"
+            ],
+            31,
+            13.153965517241378,
+            9.68
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            25,
+            13.078333333333333,
+            9.7
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’El Oued"
+            ],
+            2,
+            13.060999999999998,
+            11.23
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université des sciences islamiques émir Abdelkader Constantine"
+            ],
+            1,
+            13.025,
+            12.74
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Bouira"
+            ],
+            1,
+            13.024000000000001,
+            12.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            5,
+            13.01375,
+            12.02
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Chlef"
+            ],
+            57,
+            13.011666666666667,
+            9.59
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Djelfa"
+            ],
+            4,
+            13.008333333333333,
+            10.12
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Tlemcen"
+            ],
+            2,
+            12.975000000000001,
+            10.65
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            12.971666666666666,
+            12.48
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            5,
+            12.959999999999999,
+            12.55
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Ghardaia"
+            ],
+            6,
+            12.925833333333335,
+            11.41
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            46,
+            12.925614035087719,
+            9.5
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de M’Sila"
+            ],
+            1,
+            12.916666666666666,
+            10.74
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Oran 1"
+            ],
+            48,
+            12.883363636363637,
+            9.6
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Médéa"
+            ],
+            26,
+            12.868301886792452,
+            9.62
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de M’Sila"
+            ],
+            33,
+            12.859855072463768,
+            9.5
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Mascara"
+            ],
+            43,
+            12.857582417582417,
+            9.83
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Khemis Miliana"
+            ],
+            19,
+            12.856136363636363,
+            9.88
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Sidi Bel Abbes"
+            ],
+            3,
+            12.855,
+            11.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Khenchela"
+            ],
+            7,
+            12.849375,
+            10.29
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’El Oued"
+            ],
+            14,
+            12.8332,
+            9.61
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            27,
+            12.824237288135594,
+            9.96
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université  d'Ain Temouchent"
+            ],
+            2,
+            12.818000000000001,
+            10.54
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Chlef"
+            ],
+            10,
+            12.799032258064516,
+            10.76
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "École Nationale Supérieure  d’agriculture saharienne d’El Oued"
+            ],
+            8,
+            12.787777777777777,
+            11.0
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Ouargla"
+            ],
+            10,
+            12.77913043478261,
+            9.68
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Skikda"
+            ],
+            21,
+            12.7685,
+            9.82
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Djelfa"
+            ],
+            2,
+            12.7675,
+            11.59
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Centre Universitaire de Tipaza"
+            ],
+            2,
+            12.745,
+            11.94
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            7,
+            12.74263157894737,
+            9.81
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Béchar"
+            ],
+            1,
+            12.7325,
+            11.76
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Sidi Bel Abbes"
+            ],
+            12,
+            12.717777777777776,
+            11.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            12.716666666666667,
+            12.48
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Saida"
+            ],
+            2,
+            12.715,
+            12.31
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Béchar"
+            ],
+            5,
+            12.714736842105264,
+            10.32
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université d’Alger 1"
+            ],
+            5,
+            12.690999999999999,
+            11.8
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Sétif 1"
+            ],
+            362,
+            12.690799595141701,
+            9.59
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Relizane"
+            ],
+            32,
+            12.6840625,
+            9.71
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Skikda"
+            ],
+            77,
+            12.657610294117646,
+            10.37
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Jijel"
+            ],
+            4,
+            12.646666666666667,
+            11.15
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Bordj Bou Arréridj"
+            ],
+            22,
+            12.60808510638298,
+            9.55
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            12.596666666666668,
+            9.97
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Béchar"
+            ],
+            7,
+            12.593076923076923,
+            11.41
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Guelma"
+            ],
+            3,
+            12.587142857142856,
+            11.0
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Skikda"
+            ],
+            1,
+            12.586666666666666,
+            11.81
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Biskra"
+            ],
+            15,
+            12.581794871794871,
+            9.52
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université  d'Ain Temouchent"
+            ],
+            21,
+            12.56425,
+            9.87
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Khemis Miliana"
+            ],
+            6,
+            12.548461538461538,
+            11.86
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            608,
+            12.545886699507388,
+            9.5
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Médéa"
+            ],
+            1,
+            12.543333333333335,
+            11.94
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Sétif 1"
+            ],
+            26,
+            12.534600000000001,
+            11.6
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Mostaganem"
+            ],
+            15,
+            12.529583333333333,
+            11.47
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Boumerdes"
+            ],
+            1,
+            12.520000000000001,
+            10.82
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Chlef"
+            ],
+            1,
+            12.52,
+            12.14
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Sidi Bel Abbes"
+            ],
+            9,
+            12.515,
+            9.56
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Laghouat"
+            ],
+            3,
+            12.506666666666668,
+            12.11
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Relizane"
+            ],
+            6,
+            12.486666666666666,
+            10.43
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Bouira"
+            ],
+            17,
+            12.481136363636363,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université Oran 1"
+            ],
+            16,
+            12.470833333333333,
+            10.03
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Khemis Miliana"
+            ],
+            1,
+            12.450000000000001,
+            10.57
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Bouira"
+            ],
+            4,
+            12.406,
+            11.84
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Boumerdes"
+            ],
+            5,
+            12.394444444444444,
+            11.62
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            11,
+            12.391481481481481,
+            9.65
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Blida 1"
+            ],
+            504,
+            12.360138613861386,
+            9.5
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Biskra"
+            ],
+            2,
+            12.36,
+            11.12
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Jijel"
+            ],
+            13,
+            12.3506,
+            10.76
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            1,
+            12.344999999999999,
+            11.69
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Mascara"
+            ],
+            2,
+            12.316666666666668,
+            12.09
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Batna 1"
+            ],
+            10,
+            12.273529411764706,
+            11.05
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de M’Sila"
+            ],
+            8,
+            12.270344827586205,
+            10.18
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Mostaganem"
+            ],
+            5,
+            12.264117647058825,
+            11.15
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Guelma"
+            ],
+            1,
+            12.253333333333336,
+            11.9
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université ibn khaldoun - tiaret"
+            ],
+            32,
+            12.228854166666666,
+            9.51
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université d’Oum El Bouaghi"
+            ],
+            3,
+            12.226666666666667,
+            10.86
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Batna 1"
+            ],
+            4,
+            12.22,
+            11.27
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’Alger 1"
+            ],
+            17,
+            12.215882352941177,
+            10.89
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Constantine 1"
+            ],
+            250,
+            12.202387755102041,
+            9.78
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Mostaganem"
+            ],
+            170,
+            12.19820945945946,
+            9.71
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’El Tarf"
+            ],
+            13,
+            12.181379310344827,
+            10.22
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Bouira"
+            ],
+            6,
+            12.180769230769231,
+            11.14
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Laghouat"
+            ],
+            3,
+            12.176666666666668,
+            11.03
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Chlef"
+            ],
+            25,
+            12.175999999999998,
+            11.3
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Sétif 2"
+            ],
+            3,
+            12.155714285714286,
+            11.28
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Centre Universitaire de Naama"
+            ],
+            1,
+            12.13,
+            11.22
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            2,
+            12.13,
+            11.23
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            2,
+            12.123333333333335,
+            11.67
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            4,
+            12.083,
+            11.73
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Médéa"
+            ],
+            14,
+            12.0436,
+            10.1
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université Oran 1"
+            ],
+            1,
+            12.043333333333335,
+            10.71
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Blida 2"
+            ],
+            14,
+            12.035238095238096,
+            10.56
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Mascara"
+            ],
+            121,
+            12.020970873786407,
+            9.81
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université batna 2"
+            ],
+            153,
+            12.016139630390143,
+            9.57
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Sidi Bel Abbes"
+            ],
+            1,
+            12.015,
+            11.14
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Tlemcen"
+            ],
+            2,
+            12.006666666666666,
+            11.19
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université batna 2"
+            ],
+            4,
+            12.004000000000001,
+            9.73
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Bordj Bou Arréridj"
+            ],
+            4,
+            12.001666666666667,
+            9.53
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire de Naama"
+            ],
+            11,
+            11.993333333333332,
+            10.24
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Mostaganem"
+            ],
+            2,
+            11.992,
+            11.23
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire El Chérif Bouchoucha Aflou"
+            ],
+            3,
+            11.99,
+            10.34
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Batna 1"
+            ],
+            18,
+            11.984358974358974,
+            9.93
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Oran 1"
+            ],
+            66,
+            11.978320610687023,
+            9.65
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université ibn khaldoun - tiaret"
+            ],
+            12,
+            11.97111111111111,
+            11.24
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Saida"
+            ],
+            2,
+            11.968333333333334,
+            11.67
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de M’Sila"
+            ],
+            4,
+            11.96,
+            11.0
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Médéa"
+            ],
+            5,
+            11.95875,
+            9.69
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université ibn khaldoun - tiaret"
+            ],
+            3,
+            11.946666666666667,
+            11.68
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Jijel"
+            ],
+            2,
+            11.934000000000001,
+            11.21
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’Oum El Bouaghi"
+            ],
+            4,
+            11.933571428571428,
+            10.08
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Bouira"
+            ],
+            100,
+            11.913374485596707,
+            9.86
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Mascara"
+            ],
+            13,
+            11.912592592592592,
+            11.26
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Médéa"
+            ],
+            5,
+            11.91125,
+            10.49
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            4,
+            11.906896551724138,
+            10.92
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            1,
+            11.904,
+            11.52
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Blida 2"
+            ],
+            5,
+            11.902222222222223,
+            11.15
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            1,
+            11.9,
+            11.12
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université ibn khaldoun - tiaret"
+            ],
+            35,
+            11.88953125,
+            9.53
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Bordj Bou Arréridj"
+            ],
+            3,
+            11.885,
+            10.72
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université ibn khaldoun - tiaret"
+            ],
+            6,
+            11.8825,
+            9.58
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Khemis Miliana"
+            ],
+            1,
+            11.88,
+            11.43
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            204,
+            11.877441253263708,
+            9.6
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tlemcen"
+            ],
+            171,
+            11.873786666666668,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire de Tipaza"
+            ],
+            17,
+            11.861290322580645,
+            10.95
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Bordj Bou Arréridj"
+            ],
+            12,
+            11.86125,
+            10.74
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "École Nationale Supérieure  d’agriculture saharienne d’Adrar"
+            ],
+            9,
+            11.856111111111112,
+            10.23
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Béjaia"
+            ],
+            2,
+            11.835714285714285,
+            11.15
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Béjaia"
+            ],
+            220,
+            11.801463414634146,
+            9.5
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            1,
+            11.8,
+            10.77
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Tlemcen"
+            ],
+            9,
+            11.8,
+            9.81
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            2,
+            11.795833333333334,
+            9.53
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Ghardaia"
+            ],
+            2,
+            11.788333333333334,
+            9.94
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université d’Oum El Bouaghi"
+            ],
+            11,
+            11.780357142857143,
+            10.86
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Blida 1"
+            ],
+            51,
+            11.766666666666667,
+            9.61
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université batna 2"
+            ],
+            2,
+            11.756923076923076,
+            11.01
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            9,
+            11.745833333333332,
+            11.02
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’Alger 2"
+            ],
+            18,
+            11.745,
+            9.69
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Constantine 1"
+            ],
+            4,
+            11.743333333333334,
+            11.16
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Sidi Bel Abbes"
+            ],
+            132,
+            11.732151162790698,
+            9.53
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Centre Universitaire de Barika"
+            ],
+            3,
+            11.728,
+            10.56
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Souk Ahras"
+            ],
+            6,
+            11.728,
+            10.05
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Alger 1"
+            ],
+            11,
+            11.718333333333334,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Ouargla"
+            ],
+            41,
+            11.708758620689656,
+            9.5
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Guelma"
+            ],
+            9,
+            11.703928571428571,
+            9.58
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Souk Ahras"
+            ],
+            8,
+            11.700555555555557,
+            10.12
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Sétif 2"
+            ],
+            9,
+            11.693333333333333,
+            11.03
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université Alger 3"
+            ],
+            17,
+            11.667272727272728,
+            10.01
+        ],
+        [
+            [
+                "Arts",
+                "Université de Mascara"
+            ],
+            1,
+            11.66,
+            10.01
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Souk Ahras"
+            ],
+            1,
+            11.645,
+            10.7
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            7,
+            11.631538461538462,
+            10.67
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            208,
+            11.628801571709234,
+            9.58
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université ibn khaldoun - tiaret"
+            ],
+            7,
+            11.623529411764705,
+            9.6
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Tissemsilt"
+            ],
+            2,
+            11.603333333333333,
+            10.93
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            1,
+            11.588571428571429,
+            10.92
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Khemis Miliana"
+            ],
+            2,
+            11.581999999999999,
+            11.09
+        ],
+        [
+            [
+                "Arts",
+                "Université de  Constantine 3 Salah Boubnider"
+            ],
+            5,
+            11.5675,
+            10.88
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            32,
+            11.552461538461538,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tissemsilt"
+            ],
+            31,
+            11.551428571428572,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Khemis Miliana"
+            ],
+            4,
+            11.547,
+            9.61
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Constantine 1"
+            ],
+            7,
+            11.545416666666666,
+            9.57
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Laghouat"
+            ],
+            22,
+            11.544117647058824,
+            9.7
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Skikda"
+            ],
+            1,
+            11.536,
+            9.89
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Mostaganem"
+            ],
+            1,
+            11.530000000000001,
+            10.82
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de M’Sila"
+            ],
+            70,
+            11.528013698630136,
+            9.57
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Ghardaia"
+            ],
+            1,
+            11.5275,
+            10.9
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’El Oued"
+            ],
+            11,
+            11.521666666666667,
+            9.51
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université Alger 3"
+            ],
+            88,
+            11.518340807174889,
+            10.67
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Ouargla"
+            ],
+            3,
+            11.518125,
+            9.69
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Médéa"
+            ],
+            137,
+            11.51090579710145,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Tlemcen"
+            ],
+            9,
+            11.51,
+            10.6
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Tipaza"
+            ],
+            160,
+            11.487940298507462,
+            9.52
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université de Laghouat"
+            ],
+            11,
+            11.4856,
+            9.71
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Sétif 1"
+            ],
+            50,
+            11.484022988505748,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Bouira"
+            ],
+            4,
+            11.471428571428572,
+            10.65
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            3,
+            11.469999999999999,
+            10.22
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université  d'Ain Temouchent"
+            ],
+            4,
+            11.462380952380952,
+            9.57
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université de Boumerdes"
+            ],
+            6,
+            11.432222222222222,
+            11.15
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Guelma"
+            ],
+            3,
+            11.42,
+            10.24
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d'Adrar"
+            ],
+            11,
+            11.417200000000001,
+            9.55
+        ],
+        [
+            [
+                "Arts",
+                "Université de Mostaganem"
+            ],
+            2,
+            11.414285714285715,
+            10.89
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Boumerdes"
+            ],
+            1,
+            11.4075,
+            11.02
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Tissemsilt"
+            ],
+            1,
+            11.404285714285715,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Khenchela"
+            ],
+            5,
+            11.401666666666666,
+            10.62
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Laghouat"
+            ],
+            63,
+            11.40082191780822,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Chlef"
+            ],
+            198,
+            11.389166666666666,
+            9.52
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université d’Oran 2 Mohamed Ben Ahmed"
+            ],
+            5,
+            11.383,
+            9.89
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Centre Universitaire de Barika"
+            ],
+            12,
+            11.376551724137931,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            85,
+            11.37020920502092,
+            9.75
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Centre Universitaire de Naama"
+            ],
+            1,
+            11.370000000000001,
+            10.42
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Skikda"
+            ],
+            10,
+            11.355333333333334,
+            11.0
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Constantine 1"
+            ],
+            11,
+            11.3385,
+            9.91
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Djelfa"
+            ],
+            18,
+            11.324107142857143,
+            10.45
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université  d'Ain Temouchent"
+            ],
+            56,
+            11.316277777777778,
+            9.61
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Relizane"
+            ],
+            9,
+            11.2995,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Relizane"
+            ],
+            7,
+            11.29,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Relizane"
+            ],
+            7,
+            11.286153846153846,
+            10.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Naama"
+            ],
+            19,
+            11.270190476190475,
+            9.56
+        ],
+        [
+            [
+                "Lettres et Langues Etrangères",
+                "Université de Mascara"
+            ],
+            9,
+            11.267142857142856,
+            9.7
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Tissemsilt"
+            ],
+            10,
+            11.255263157894737,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Khemis Miliana"
+            ],
+            77,
+            11.250604026845638,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Techniques des Activités Physiques et Sportives",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            11.24,
+            11.09
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire de Naama"
+            ],
+            4,
+            11.233333333333333,
+            9.59
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Béchar"
+            ],
+            33,
+            11.21679245283019,
+            9.5
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Batna 1"
+            ],
+            59,
+            11.21664,
+            9.62
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            5,
+            11.203636363636363,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Guelma"
+            ],
+            97,
+            11.202227074235807,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Biskra"
+            ],
+            4,
+            11.198333333333332,
+            9.66
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire de Maghnia"
+            ],
+            5,
+            11.192499999999999,
+            9.91
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université d’Alger 2"
+            ],
+            4,
+            11.188333333333333,
+            9.89
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Relizane"
+            ],
+            34,
+            11.184198113207549,
+            9.55
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Souk Ahras"
+            ],
+            40,
+            11.173580246913579,
+            9.55
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Ghardaia"
+            ],
+            1,
+            11.166666666666666,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            9,
+            11.162272727272727,
+            9.79
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Oum El Bouaghi"
+            ],
+            1,
+            11.158181818181818,
+            10.46
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Tissemsilt"
+            ],
+            1,
+            11.153333333333334,
+            10.38
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Saida"
+            ],
+            6,
+            11.13952380952381,
+            9.78
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire de Barika"
+            ],
+            1,
+            11.133076923076922,
+            9.61
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Centre Universitaire de Naama"
+            ],
+            1,
+            11.123333333333333,
+            10.49
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Guelma"
+            ],
+            5,
+            11.12,
+            9.82
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            21,
+            11.109166666666667,
+            9.53
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’Oum El Bouaghi"
+            ],
+            50,
+            11.101095890410958,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de M’Sila"
+            ],
+            15,
+            11.097608695652173,
+            9.5
+        ],
+        [
+            [
+                "Mathématiques et Informatique",
+                "Université d’Oum El Bouaghi"
+            ],
+            5,
+            11.08705882352941,
+            9.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Ghardaia"
+            ],
+            1,
+            11.086666666666666,
+            9.93
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Khenchela"
+            ],
+            5,
+            11.084999999999999,
+            9.98
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Batna 1"
+            ],
+            20,
+            11.083461538461538,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Saida"
+            ],
+            49,
+            11.080076923076923,
+            9.55
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Bordj Bou Arréridj"
+            ],
+            85,
+            11.07529411764706,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            58,
+            11.07394495412844,
+            9.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Tamanghasset"
+            ],
+            4,
+            11.073846153846155,
+            9.86
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université ibn khaldoun - tiaret"
+            ],
+            140,
+            11.063429487179487,
+            9.54
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d'Adrar"
+            ],
+            22,
+            11.057560975609757,
+            9.57
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Biskra"
+            ],
+            62,
+            11.048495575221239,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Jijel"
+            ],
+            9,
+            11.040666666666665,
+            9.54
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Ghardaia"
+            ],
+            54,
+            11.035968992248062,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de M’Sila"
+            ],
+            3,
+            11.029523809523809,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Béchar"
+            ],
+            1,
+            11.01,
+            10.02
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université des Sciences et de la Technologie d'Oran "
+            ],
+            15,
+            10.993255813953487,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’El Tarf"
+            ],
+            1,
+            10.991428571428571,
+            10.14
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Sétif 2"
+            ],
+            3,
+            10.962307692307691,
+            9.55
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Khenchela"
+            ],
+            31,
+            10.942537313432835,
+            9.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université d’El Tarf"
+            ],
+            8,
+            10.940526315789475,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            36,
+            10.94012987012987,
+            9.54
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Béchar"
+            ],
+            7,
+            10.916956521739131,
+            9.55
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Skikda"
+            ],
+            6,
+            10.916666666666666,
+            10.25
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Djelfa"
+            ],
+            4,
+            10.914615384615384,
+            10.28
+        ],
+        [
+            [
+                "Architecture, urbanisme et métiers de la ville",
+                "Université de Biskra"
+            ],
+            12,
+            10.910833333333334,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            2,
+            10.905000000000001,
+            10.23
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Médéa"
+            ],
+            34,
+            10.896282051282052,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Sidi Bel Abbes"
+            ],
+            1,
+            10.8925,
+            10.39
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université d’Oum El Bouaghi"
+            ],
+            5,
+            10.89,
+            9.93
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Centre Universitaire de Barika"
+            ],
+            1,
+            10.888571428571428,
+            9.74
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            4,
+            10.870000000000001,
+            9.51
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d'Adrar"
+            ],
+            7,
+            10.87,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Mostaganem"
+            ],
+            25,
+            10.86219512195122,
+            9.68
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Mostaganem"
+            ],
+            32,
+            10.845609756097561,
+            9.57
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’El Oued"
+            ],
+            59,
+            10.840171821305841,
+            9.51
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Djelfa"
+            ],
+            48,
+            10.839649999999999,
+            9.5
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université de Jijel"
+            ],
+            71,
+            10.832171428571428,
+            9.52
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Blida 2"
+            ],
+            35,
+            10.810735294117647,
+            9.69
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Université d’El Tarf"
+            ],
+            28,
+            10.805892857142856,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université Oran 1"
+            ],
+            9,
+            10.805,
+            9.52
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Barika"
+            ],
+            15,
+            10.801428571428572,
+            9.5
+        ],
+        [
+            [
+                "Arts",
+                "Université d’Alger 2"
+            ],
+            8,
+            10.798333333333334,
+            10.13
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’Alger 2"
+            ],
+            36,
+            10.783709677419356,
+            9.54
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Khemis Miliana"
+            ],
+            10,
+            10.775625,
+            9.84
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université Oran 1"
+            ],
+            12,
+            10.771818181818183,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Chlef"
+            ],
+            17,
+            10.728823529411764,
+            9.53
+        ],
+        [
+            [
+                "Arts",
+                "Université de Djelfa"
+            ],
+            1,
+            10.728333333333333,
+            9.88
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Tissemsilt"
+            ],
+            2,
+            10.709999999999999,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Relizane"
+            ],
+            5,
+            10.70952380952381,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de M’Sila"
+            ],
+            18,
+            10.707826086956523,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université d'Adrar"
+            ],
+            4,
+            10.70142857142857,
+            10.03
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Blida 2"
+            ],
+            3,
+            10.69625,
+            9.64
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d'Adrar"
+            ],
+            1,
+            10.690000000000001,
+            9.71
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Médéa"
+            ],
+            6,
+            10.689333333333334,
+            9.56
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université d’El Oued"
+            ],
+            9,
+            10.674666666666667,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Djelfa"
+            ],
+            3,
+            10.66375,
+            9.56
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire de Maghnia"
+            ],
+            8,
+            10.662105263157894,
+            9.58
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Djelfa"
+            ],
+            1,
+            10.65875,
+            9.91
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Blida 1"
+            ],
+            22,
+            10.655,
+            9.61
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Guelma"
+            ],
+            19,
+            10.653260869565218,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Sétif 2"
+            ],
+            8,
+            10.641290322580645,
+            9.74
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            2,
+            10.635,
+            9.74
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Tlemcen"
+            ],
+            7,
+            10.627692307692307,
+            9.6
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Djelfa"
+            ],
+            17,
+            10.622941176470588,
+            9.53
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Biskra"
+            ],
+            20,
+            10.607380952380952,
+            9.74
+        ],
+        [
+            [
+                "Sciences et Technologies",
+                "Centre Universitaire Abdelhafid Boussouf - Mila"
+            ],
+            18,
+            10.596521739130434,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université d’Oum El Bouaghi"
+            ],
+            14,
+            10.591219512195122,
+            9.59
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Mascara"
+            ],
+            2,
+            10.575,
+            9.75
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Guelma"
+            ],
+            3,
+            10.563333333333334,
+            9.6
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            1,
+            10.543333333333333,
+            9.83
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université Badji Mokhtar de Annaba"
+            ],
+            11,
+            10.5405,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Jijel"
+            ],
+            1,
+            10.53,
+            9.94
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            27,
+            10.523188405797102,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Guelma"
+            ],
+            3,
+            10.518,
+            9.92
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Chlef"
+            ],
+            5,
+            10.508888888888889,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Constantine 1"
+            ],
+            44,
+            10.498865979381444,
+            9.56
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Jijel"
+            ],
+            4,
+            10.493333333333332,
+            9.54
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Bouira"
+            ],
+            2,
+            10.491428571428571,
+            9.63
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Boumerdes"
+            ],
+            41,
+            10.485479452054795,
+            9.52
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de M’Sila"
+            ],
+            4,
+            10.467083333333333,
+            9.5
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Jijel"
+            ],
+            3,
+            10.465555555555556,
+            9.73
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université ibn khaldoun - tiaret"
+            ],
+            4,
+            10.450909090909091,
+            9.55
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Chlef"
+            ],
+            3,
+            10.4508,
+            9.61
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Mascara"
+            ],
+            47,
+            10.441160714285715,
+            9.53
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Bouira"
+            ],
+            13,
+            10.42952380952381,
+            9.56
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Constantine 1"
+            ],
+            45,
+            10.427415730337078,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Boumerdes"
+            ],
+            125,
+            10.413938223938224,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            24,
+            10.396666666666667,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            8,
+            10.391428571428571,
+            9.53
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Mascara"
+            ],
+            3,
+            10.384444444444446,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Mascara"
+            ],
+            17,
+            10.369772727272727,
+            9.52
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université ibn khaldoun - tiaret"
+            ],
+            10,
+            10.352666666666666,
+            9.8
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Djelfa"
+            ],
+            3,
+            10.342916666666666,
+            9.53
+        ],
+        [
+            [
+                "Droit et Sciences Politiques",
+                "Université de Béjaia"
+            ],
+            3,
+            10.34,
+            9.62
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Bouira"
+            ],
+            27,
+            10.337733333333334,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Skikda"
+            ],
+            74,
+            10.334935064935065,
+            9.5
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            7,
+            10.321538461538463,
+            9.54
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université d’Oum El Bouaghi"
+            ],
+            14,
+            10.320740740740742,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Bordj Bou Arréridj"
+            ],
+            2,
+            10.3,
+            9.76
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université Constantine 2-Abdelhamid Mehri "
+            ],
+            37,
+            10.29295081967213,
+            9.51
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université des Sciences et de la Technologie Houari Boumediène Alger"
+            ],
+            142,
+            10.270945558739255,
+            9.5
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Laghouat"
+            ],
+            3,
+            10.25,
+            9.63
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Biskra"
+            ],
+            1,
+            10.25,
+            9.54
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Mostaganem"
+            ],
+            4,
+            10.249285714285715,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Sétif 1"
+            ],
+            79,
+            10.231842105263159,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Jijel"
+            ],
+            1,
+            10.215,
+            9.67
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Khemis Miliana"
+            ],
+            5,
+            10.213571428571429,
+            9.6
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université Larbi Tébessi Tébessa"
+            ],
+            1,
+            10.204444444444444,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Centre Universitaire d’El Bayadh"
+            ],
+            4,
+            10.196666666666665,
+            9.65
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Skikda"
+            ],
+            4,
+            10.188181818181818,
+            9.59
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Mascara"
+            ],
+            9,
+            10.185714285714287,
+            9.5
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de M’Sila"
+            ],
+            1,
+            10.175,
+            10.11
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Béjaia"
+            ],
+            29,
+            10.1735,
+            9.5
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Université de Guelma"
+            ],
+            2,
+            10.17,
+            9.53
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université batna 2"
+            ],
+            33,
+            10.132179487179487,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Batna 1"
+            ],
+            1,
+            10.127142857142857,
+            9.75
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Centre Universitaire El Chérif Bouchoucha Aflou"
+            ],
+            1,
+            10.108333333333333,
+            9.57
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Tasdawit Lmulud At m£emmer  /Université Mouloud Mammeri – Tizi Ouzou /ⵝⴰⵙⴷⴰⵓⵉⵝ ⵎⵓⵏⵓⴷ ⴰⵝⵎⴷⴰⵟⵙ"
+            ],
+            3,
+            10.103333333333333,
+            9.62
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université ibn khaldoun - tiaret"
+            ],
+            1,
+            10.096666666666666,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Béjaia"
+            ],
+            8,
+            10.084,
+            9.51
+        ],
+        [
+            [
+                "Sciences Humaines et Sociales",
+                "Centre Universitaire de Tipaza"
+            ],
+            36,
+            10.063235294117646,
+            9.61
+        ],
+        [
+            [
+                "Sciences de la Nature et de la Vie",
+                "Université de Batna 1"
+            ],
+            15,
+            10.048666666666666,
+            9.52
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Chlef"
+            ],
+            5,
+            10.012222222222222,
+            9.51
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université d’Oum El Bouaghi"
+            ],
+            2,
+            9.995000000000001,
+            9.77
+        ],
+        [
+            [
+                "Sciences de la Matière",
+                "Université de Bordj Bou Arréridj"
+            ],
+            7,
+            9.985882352941175,
+            9.54
+        ],
+        [
+            [
+                "Sciences Economiques, de Gestion et Commerciales",
+                "Université de Tamanghasset"
+            ],
+            1,
+            9.9525,
+            9.5
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Constantine 1"
+            ],
+            7,
+            9.938260869565216,
+            9.5
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Centre Universitaire de Tindouf"
+            ],
+            1,
+            9.875,
+            9.51
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Centre Universitaire de Tipaza"
+            ],
+            33,
+            9.856666666666666,
+            9.5
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université d'Adrar"
+            ],
+            1,
+            9.815,
+            9.77
+        ],
+        [
+            [
+                "Sciences de la terre et de l'Univers",
+                "Université de Ouargla"
+            ],
+            8,
+            9.790384615384616,
+            9.52
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Bordj Bou Arréridj"
+            ],
+            1,
+            9.770000000000001,
+            9.72
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Khenchela"
+            ],
+            1,
+            9.753333333333332,
+            9.5
+        ],
+        [
+            [
+                "Langue et Littérature Arabes",
+                "Université de Relizane"
+            ],
+            2,
+            9.727500000000001,
+            9.51
+        ],
+        [
+            [
+                "Arts",
+                "Université Oran 1"
+            ],
+            1,
+            9.575,
+            9.5
+        ]
+    ]
+}

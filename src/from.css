@@ -1,0 +1,96 @@
+
+
+label {
+    display: block; /* Makes the label take up a full line */
+    font-size: 1.2rem; /* Adjusts the font size */
+    color: #000000; /* Sets the text color */
+    margin-bottom: 8px; /* Adds space below the label */
+    font-weight: bold; /* Makes the label text bold */
+    align-self: center;
+}
+.container {
+    width: 100vw;
+display: flex;
+flex-direction: column;
+    gap: 20px;
+    align-items: center; 
+}
+.rec{
+    width: 90%;
+}
+.retry {
+    padding: 10px;
+    align-items: center;
+    display: block; /* Makes the label take up a full line */
+    font-size: 1.2rem; /* Adjusts the font size */
+    color: #000000; /* Sets the text color */
+    margin-top: "30px";
+      color: "red";
+      background-color: rgb(255, 63, 63);
+      border: 5px;
+       border-radius: 10px ;
+align-self: center;}
+.btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.form {
+
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  width: 100%;
+  align-items: center;
+  margin: 0 auto;
+  align-self: center;
+}
+
+input[type="number"] {
+    width:100px;
+    height:10px;
+    padding: 10px;
+    
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    outline: none;
+    align-self: center;
+    
+
+}
+select {
+    align-self: center;
+
+    width:200px;
+    height:30px;
+    
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    
+
+}
+input[type="text"]:focus {
+    border: 2px solid #007bff;
+}
+
+
+
+input[type="number"]::-webkit-inner-spin-button, 
+input[type="number"]::-webkit-outer-spin-button { 
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+input[type="number"] {
+    -moz-appearance: textfield;
+  }
+
+
+
+
+p{
+    color: red;
+}
